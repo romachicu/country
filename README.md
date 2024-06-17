@@ -1,7 +1,7 @@
 1. Initirea unui fiser HTML:
    <!DOCTYPE html>
 2. Structura unui fiser HTML:
-   ![Text alternativ](images/image.extensie)
+   ![Structura HTML](images/image.png)
 
 3. Partea vizibila/invizibila [head/body]
 4. Crearea unui Liste:
