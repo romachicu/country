@@ -1,7 +1,8 @@
 1. Initirea unui fiser HTML:
    <!DOCTYPE html>
 2. Structura unui fiser HTML:
-   [![alt text](..//images/structura-html.png)](https://replit.com/@ChicuRoma/country#image.png)
+   ![Text alternativ](images/image.extensie)
+
 3. Partea vizibila/invizibila [head/body]
 4. Crearea unui Liste:
    <ul> - Unordered List
